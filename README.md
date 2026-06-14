@@ -61,16 +61,6 @@ streamlit run app.py
 http://localhost:8501
 ```
 
-## Screenshots
-
-Add screenshots here after running the dashboard locally.
-
-Suggested screenshots:
-
-- Dashboard overview with key metrics
-- Revenue trend chart with filters applied
-- Top categories and regional performance section
-
 ## Dataset Columns
 
 - `Date`: Sales transaction date
@@ -83,10 +73,3 @@ Suggested screenshots:
 - `Revenue`: Total transaction revenue
 - `Profit`: Estimated transaction profit
 
-## Resume Bullet Points
-
-- Built an interactive sales analytics dashboard using Python, Pandas, Streamlit, and Plotly to analyze 12,000+ business transactions.
-- Cleaned and transformed raw CSV data by handling missing values, standardizing dates, removing duplicates, and preparing metrics for analysis.
-- Developed dynamic filters for date range, product category, region, and customer type to support self-service business exploration.
-- Created visualizations for revenue trends, category distribution, top-performing products, and regional performance to communicate actionable insights.
-- Calculated business KPIs including total revenue, average order revenue, total profit, profit margin, and month-over-month growth.
